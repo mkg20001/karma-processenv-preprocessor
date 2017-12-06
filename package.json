@@ -1,6 +1,6 @@
 {
   "name": "karma-processenv-preprocessor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Karma preprocessor to access process.env inside your tests",
   "main": "src/index.js",
   "scripts": {
