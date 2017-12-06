@@ -1,6 +1,6 @@
 'use strict'
 
-const createEnvPreprocessor = () => {
+const createEnvPreprocessor = function () {
   return (content, file, done) => {
     done('if (!process) process = {}; process.env = window.env = ' + JSON.stringify(process.env) + '; /* Added by processenv plugin */ ' + content)
   }
