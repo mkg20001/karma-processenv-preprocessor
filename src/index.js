@@ -2,7 +2,7 @@
 
 const createEnvPreprocessor = function () {
   return (content, file, done) => {
-    done('if (!process) process = {}; process.env = window.env = ' + JSON.stringify(process.env) + '; /* Added by processenv plugin */ ' + content)
+    done('if (typeof process == "undefined") process = {}; process.env = window.env = ' + JSON.stringify(process.env) + '; /* Added by processenv plugin */ ' + content)
   }
 }
 
