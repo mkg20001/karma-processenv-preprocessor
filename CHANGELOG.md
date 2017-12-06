@@ -1,3 +1,13 @@
+<a name="0.0.4"></a>
+## [0.0.4](https://github.com/mkg20001/karma-processenv-preprocessor/compare/v0.0.3...v0.0.4) (2017-12-06)
+
+
+### Bug Fixes
+
+* strict env messing with if stuff ([a6c2ce7](https://github.com/mkg20001/karma-processenv-preprocessor/commit/a6c2ce7))
+
+
+
 <a name="0.0.3"></a>
 ## [0.0.3](https://github.com/mkg20001/karma-processenv-preprocessor/compare/v0.0.2...v0.0.3) (2017-12-06)
 
