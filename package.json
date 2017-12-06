@@ -1,0 +1,25 @@
+{
+  "name": "karma-processenv-preprocessor",
+  "version": "0.0.1",
+  "description": "A Karma preprocessor to access process.env inside your tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "process.env",
+    "env"
+  ],
+  "author": "Maciej Krüger <mkg20001@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkg20001/karma-processenv-preprocessor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mkg20001/karma-processenv-preprocessor/issues"
+  },
+  "homepage": "https://github.com/mkg20001/karma-processenv-preprocessor#readme"
+}
