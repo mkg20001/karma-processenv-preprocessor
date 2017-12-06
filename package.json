@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/mkg20001/karma-processenv-preprocessor/issues"
   },
-  "homepage": "https://github.com/mkg20001/karma-processenv-preprocessor#readme"
+  "homepage": "https://github.com/mkg20001/karma-processenv-preprocessor#readme",
+  "contributors": [
+    "mkg20001 <mkg20001@gmail.com>"
+  ]
 }
